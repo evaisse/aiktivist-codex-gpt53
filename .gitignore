@@ -3,6 +3,7 @@ node_modules/
 *.db-journal
 *.db-wal
 *.db-shm
+*.jsonl
 .env
 .envrc
 dist/
